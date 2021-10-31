@@ -1,2 +1,3 @@
-# DATA422_Group_Project
-DATA422 Data Wrangling Group Project
+# DATA422 Group Project
+
+![Image of Github Repo](https://i.imgur.com/lmCJLJM.png)
