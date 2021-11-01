@@ -54,6 +54,9 @@ The contents of this repository are as follows:
 	* spatialIndexTrimmed.feather
 	* weatherFull-canterbury.feather
 	* weatherTrimmed-canterbury.csv
+
+9. Data Model.png
+	* Image of final data model
 <br>
 All the output datasets create a final data model that looks like this: <br>
 <br>
