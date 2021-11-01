@@ -55,5 +55,5 @@ The contents of this repository are as follows:
 	* weatherFull-canterbury.feather
 	* weatherTrimmed-canterbury.csv
 <br>
-All the output datasets create a final data model that looks like this:
+All the output datasets create a final data model that looks like this: <br>
 ![Image of Github Repo](Data model.png)
