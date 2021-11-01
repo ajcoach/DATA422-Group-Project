@@ -15,11 +15,11 @@ The contents of this repository are as follows:
 1. README.md
 	* Repository description, documents file descriptions and file execution order
 
-2. Jupyter notebooks (recommended to execute in the order listed)
+2. Jupyter notebooks (recommended to execute in the order listed, however Suburbs_Julia.ipynb must be run before Crime_Suburbs_R.ipynb)
 	* Income_employment_age_data_R.ipynb
 	* income_data_Julia.ipynb
-	* DATA422_Allan_big_assignment_Julia_v2.ipynb
-	* DATA422_Allan_big_assignment_R_v7.ipynb
+	* Suburbs_Julia.ipynb
+	* Crime_Suburbs_R.ipynb
 	* Meshblock - Area data.ipynb
 	* School data.ipynb
 
@@ -38,7 +38,7 @@ The contents of this repository are as follows:
 
 
 7. Output datasets
-	* crimes_population_data_NEWEST.csv
+	* crimes_population_data.csv
 	* area.csv
 	* schools.csv
 	* suburbs.csv
