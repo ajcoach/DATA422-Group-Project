@@ -22,6 +22,8 @@ The contents of this repository are as follows:
 	* Crime_Suburbs_R.ipynb
 	* Meshblock - Area data.ipynb
 	* School data.ipynb
+	* spatialIndex.ipynb
+	* weatherData.ipynb
 
 3. Project report.pdf
 	* PDF report describing our project
@@ -32,14 +34,26 @@ The contents of this repository are as follows:
 5. Project diary.pdf
 	* PDF outlining what everyone has done
 
-6. Datasets input folder
+6. Datasets input (folder)
 	* Folder containing datasets from various public sources
 	* See report references for respective owners
 
-
-7. Output datasets
-	* crimes_population_data.csv
+7. Output datasets in root folder
 	* area.csv
+	* canterbury_employment.csv
+	* canterbury_gender.csv
+	* canterbury_income.csv
+	* crimes_population_data.csv
+	* meshblock.csv
 	* schools.csv
 	* suburbs.csv
-	* 
+
+8. spatialData (folder with output data from the spatialData)
+	* spatialIndexFull.feather
+	* spatialIndexTrimmed.csv
+	* spatialIndexTrimmed.feather
+	* weatherFull-canterbury.feather
+	* weatherTrimmed-canterbury.csv
+<br>
+All the output datasets create a final data model that looks like this:
+![Image of Github Repo](Data model.png)
