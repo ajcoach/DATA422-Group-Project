@@ -56,5 +56,5 @@ The contents of this repository are as follows:
 	* weatherTrimmed-canterbury.csv
 <br>
 All the output datasets create a final data model that looks like this: <br>
-
+<br>
 ![Image of Data Model](https://i.imgur.com/le7S4Iz.png)
