@@ -1,0 +1,315 @@
+"","Suburb","Employed_full_time","Employed_part_time","Unemployed","Not_in_labour_force"
+"1","Kaikoura Ranges",834,246,15,282
+"2","Kaikoura",969,315,30,591
+"3","Hanmer Range",123,39,0,48
+"4","Amuri",1047,297,30,339
+"5","Hanmer Springs",498,147,6,162
+"6","Upper Hurunui",594,207,24,357
+"7","Parnassus",504,222,18,306
+"8","Ashley Forest",297,96,21,120
+"9","Omihi",561,189,18,243
+"10","Balcairn",987,336,39,561
+"11","Amberley",669,252,36,741
+"12","Okuku",339,96,18,117
+"13","Ashley Gorge",510,150,18,231
+"14","Oxford",729,288,54,684
+"15","Starvation Hill-Cust",909,315,27,507
+"16","Loburn",942,348,57,417
+"17","Eyrewell",858,213,33,303
+"18","West Eyreton",642,216,24,282
+"19","Ashley-Sefton",891,318,42,444
+"20","Fernside",549,228,24,264
+"21","Rangiora North West",636,246,36,876
+"22","Kingsbury",927,351,48,996
+"23","Ashgrove",591,201,42,366
+"24","Rangiora North East",657,219,54,597
+"25","Oxford Estate",483,180,24,324
+"26","Rangiora Central",21,3,3,9
+"27","Rangiora South West",927,300,63,591
+"28","Lilybrook",1089,321,78,930
+"29","Waikuku",723,243,30,324
+"30","Mandeville-Ohoka",1368,429,48,612
+"31","Rangiora South East",846,240,48,627
+"32","Southbrook",306,87,21,201
+"33","Swannanoa-Eyreton",429,159,15,174
+"34","Tuahiwi",432,123,24,207
+"35","Woodend",1173,387,57,636
+"36","Pegasus",1062,315,54,561
+"37","Clarkville",591,243,24,276
+"38","Pegasus Bay",402,144,48,279
+"39","Kaiapoi North West",783,264,51,570
+"40","Silverstream (Waimakariri District)",390,96,12,234
+"41","Sovereign Palms",1503,414,87,768
+"42","Kaiapoi West",498,159,33,348
+"43","Kaiapoi Central",867,249,66,627
+"44","Kaiapoi South",753,231,39,540
+"45","Kaiapoi East",99,27,3,129
+"46","McLeans Island",87,30,3,51
+"47","Paparua",219,84,48,588
+"48","Yaldhurst",756,198,39,348
+"49","Christchurch Airport",75,33,6,45
+"50","Clearwater",300,114,6,177
+"51","Belfast West",822,213,42,483
+"52","Harewood",561,210,30,390
+"53","Brooklands-Spencerville",315,129,18,129
+"54","Styx",483,159,27,243
+"55","Belfast East",990,279,87,549
+"56","Northwood",1401,447,87,1047
+"57","Russley",345,123,21,348
+"58","Regents Park",513,186,36,249
+"59","Hawthornden",993,312,72,648
+"60","Bishopdale North",1761,519,111,1002
+"61","Casebrook",1713,480,102,1053
+"62","Bishopdale West",1137,330,78,732
+"63","Templeton",828,213,45,387
+"64","Islington",438,102,33,234
+"65","Burnside Park",1290,474,93,756
+"66","Marshland",330,96,18,207
+"67","Avonhead North",549,192,42,405
+"68","Redwood North",1191,375,72,603
+"69","Broomfield",1011,234,96,711
+"70","Redwood West",825,249,102,576
+"71","Avonhead West",669,228,36,624
+"72","Bishopdale South",897,267,60,621
+"73","Islington-Hornby Industrial",171,33,9,99
+"74","Burnside",1389,426,105,888
+"75","Hei Hei",1563,330,123,759
+"76","Papanui North",648,195,69,732
+"77","Avonhead East",1104,357,90,708
+"78","Redwood East",1338,378,81,810
+"79","Avonhead South",1299,402,99,840
+"80","Riccarton Racecourse",573,126,39,297
+"81","Bryndwr North",1323,453,138,762
+"82","Northlands (Christchurch City)",51,15,6,30
+"83","Papanui West",1167,339,84,840
+"84","Ilam North",1320,612,144,1095
+"85","Hornby West",1104,255,69,633
+"86","Hornby Central",66,15,12,27
+"87","Northcote (Christchurch City)",1122,300,102,663
+"88","Jellie Park",1062,483,84,912
+"89","Ilam South",1101,513,141,1017
+"90","Bryndwr South",942,381,87,966
+"91","Papanui East",873,267,42,822
+"92","Sockburn North",1530,507,108,1347
+"93","Hornby South",2013,429,150,1095
+"94","Ilam University",369,474,183,1302
+"95","Prestons",1317,378,51,678
+"96","Strowan",1380,483,72,885
+"97","Fendalton",702,309,36,597
+"98","Waitikiri",1152,393,48,555
+"99","Mairehau North",1119,309,69,1104
+"100","Bush Inn",780,546,141,1362
+"101","Awatea North",1155,294,87,558
+"102","Upper Riccarton",612,225,69,531
+"103","Malvern",1203,339,57,414
+"104","Rutland",1203,390,48,753
+"105","Sockburn South",192,36,21,72
+"106","Deans Bush",924,378,69,813
+"107","Wigram North",252,60,12,231
+"108","Holmwood",804,351,30,573
+"109","Wharenui",879,447,138,951
+"110","Wigram West",630,156,30,330
+"111","Awatea South",408,81,30,372
+"112","Merivale",1281,402,78,726
+"113","Mairehau South",1662,429,117,732
+"114","Mona Vale",588,204,39,324
+"115","Riccarton West",1209,567,195,975
+"116","Shirley West",1569,483,162,1074
+"117","Middleton",78,30,12,57
+"118","Wigram South",600,123,39,294
+"119","Queenspark",1407,465,102,717
+"120","St Albans North",1047,249,60,450
+"121","St Albans West",1290,324,78,528
+"122","Travis Wetlands",1014,300,75,543
+"123","Wigram East",399,87,15,159
+"124","Riccarton Central",27,6,3,12
+"125","Oaklands West",1065,315,75,624
+"126","Riccarton South",1578,492,159,777
+"127","Halswell West",1863,360,75,576
+"128","Shirley East",990,333,60,870
+"129","Broken Run",255,78,9,126
+"130","St Albans East",1644,336,81,594
+"131","Hagley Park",15,6,0,9
+"132","Hillmorton",1260,342,63,690
+"133","Parklands",1593,471,144,954
+"134","Riccarton East",552,153,30,264
+"135","Edgeware",2274,468,159,759
+"136","Aidanfield",1488,456,69,1149
+"137","Tower Junction",24,6,0,90
+"138","Burwood",1353,357,99,807
+"139","Christchurch Central-West",540,90,24,216
+"140","Christchurch Central-North",1311,252,90,546
+"141","Richmond North (Christchurch City)",1044,252,84,534
+"142","Waimairi Beach",546,192,36,255
+"143","Addington West",1149,225,78,678
+"144","Otakaro-Avon River Corridor",33,9,6,30
+"145","Oaklands East",1503,345,78,726
+"146","Addington North",9,0,0,0
+"147","Dallington",936,273,63,627
+"148","Christchurch Central",57,18,6,18
+"149","Hoon Hay West",1215,318,141,816
+"150","Richmond South (Christchurch City)",975,255,96,450
+"151","Spreydon West",1446,336,75,699
+"152","Christchurch Central-East",1131,219,72,327
+"153","Christchurch Central-South",225,84,33,189
+"154","North Beach",1662,465,123,984
+"155","Halswell North",846,270,33,471
+"156","Addington East",1395,294,105,726
+"157","Avondale (Christchurch City)",984,285,84,558
+"158","Spreydon North",1689,462,135,801
+"159","Hoon Hay East",1428,381,63,675
+"160","Avonside",612,162,87,489
+"161","Linwood West",2283,582,243,1215
+"162","Halswell South",1032,321,57,570
+"163","Sydenham Central",93,9,3,18
+"164","Spreydon South",987,261,60,639
+"165","Rawhiti",1104,312,108,717
+"166","Wainoni",1092,345,105,708
+"167","Linwood North",1122,327,123,669
+"168","Aranui",1224,363,288,1224
+"169","Sydenham West",597,123,33,456
+"170","Lancaster Park",120,27,18,57
+"171","Phillipstown",1794,432,213,951
+"172","Kennedys Bush",393,144,15,219
+"173","Somerfield East",1593,441,96,792
+"174","Somerfield West",1200,363,66,936
+"175","Linwood East",810,192,93,567
+"176","Sydenham North",984,246,69,387
+"177","Hoon Hay South",915,282,54,483
+"178","Charleston (Christchurch City)",684,171,66,309
+"179","Sydenham South",1257,300,102,735
+"180","Bexley",978,255,123,675
+"181","Waltham",927,201,87,423
+"182","Westmorland",900,366,48,486
+"183","Woolston North",1359,372,129,888
+"184","New Brighton",1350,396,126,852
+"185","Cashmere West",1233,492,60,717
+"186","Bromley South",1167,303,123,720
+"187","Ensors",1044,237,102,486
+"188","Beckenham",1005,342,48,519
+"189","Bromley North",27,6,0,12
+"190","St Martins",1104,357,48,657
+"191","Opawa",501,180,30,438
+"192","Woolston West",525,135,48,270
+"193","Woolston East",1287,306,108,975
+"194","Huntsbury",981,369,48,495
+"195","Cashmere East",1425,498,60,756
+"196","Hillsborough (Christchurch City)",996,318,48,549
+"197","Woolston South",240,51,21,123
+"198","Port Hills",30,9,3,15
+"199","South New Brighton",1296,423,102,732
+"200","Brookhaven-Ferrymead",465,147,24,240
+"201","Heathcote Valley",927,315,36,543
+"202","Mount Pleasant",1527,501,57,921
+"203","Redcliffs",783,291,39,582
+"204","Governors Bay",384,135,15,174
+"205","Inlets other Christchurch City",NA,NA,NA,NA
+"206","Clifton Hill",687,270,36,375
+"207","Lyttelton",1353,450,69,618
+"208","Inlet Port Lyttelton",NA,NA,NA,NA
+"209","Sumner",1419,501,66,822
+"210","Teddington",105,33,3,51
+"211","Diamond Harbour",582,234,15,405
+"212","Inland water Lake Ellesmere/Te Waihora South",NA,NA,NA,NA
+"213","Banks Peninsula South",513,171,15,252
+"214","Eastern Bays-Banks Peninsula",258,117,6,132
+"215","Akaroa Harbour",279,132,3,234
+"216","Inlet Akaroa Harbour",NA,NA,NA,NA
+"217","Akaroa",327,111,9,243
+"218","Craigieburn",87,18,3,33
+"219","Torlesse",489,171,18,225
+"220","Glenroy-Hororata",534,171,18,189
+"221","Glentunnel",525,177,27,249
+"222","Darfield",1146,324,39,708
+"223","Kirwee",594,159,21,237
+"224","Bankside",822,180,27,249
+"225","Charing Cross",435,129,9,141
+"226","Halkett",702,291,15,354
+"227","Newtons Road",1569,507,51,618
+"228","West Melton",918,246,27,339
+"229","Burnham Camp",750,81,21,90
+"230","Rolleston Izone",21,3,0,6
+"231","Rolleston North West",1839,357,69,495
+"232","Springston",933,327,39,396
+"233","Rolleston Central",1455,372,72,528
+"234","Rolleston North East",2202,462,72,660
+"235","Rolleston South West",1284,345,51,393
+"236","Southbridge",1137,309,36,471
+"237","Rolleston South East",1545,285,51,420
+"238","Trents",855,342,24,339
+"239","Prebbleton",1983,636,69,765
+"240","Irwell",609,168,12,264
+"241","Ladbrooks",705,303,39,351
+"242","Lincoln West",984,438,117,876
+"243","Lincoln East",1503,495,66,681
+"244","Leeston",927,243,42,498
+"245","Tai Tapu",474,171,15,222
+"246","Motukarara",312,84,9,105
+"247","Inland water Lake Ellesmere/Te Waihora North",NA,NA,NA,NA
+"248","Ashburton Lakes",51,12,0,12
+"249","Cairnbrae",669,219,18,183
+"250","Ashburton Forks",1104,309,21,282
+"251","Methven",822,240,36,327
+"252","Ealing-Lowcliffe",720,183,30,216
+"253","Eiffelton",1140,372,30,375
+"254","Chertsey",735,234,24,234
+"255","Winchmore-Wakanui",699,216,21,291
+"256","Allenton North",921,351,39,795
+"257","Allenton South",864,261,48,483
+"258","Rakaia",636,162,24,318
+"259","Ashburton North",432,162,18,249
+"260","Allenton East",849,255,39,636
+"261","Tinwald North",507,165,18,291
+"262","Ashburton Central",54,15,6,51
+"263","Ashburton West",318,96,15,405
+"264","Tinwald South",957,270,69,606
+"265","Ashburton East",675,180,42,570
+"266","Netherby",933,243,54,462
+"267","Hampstead",1128,330,81,708
+"268","Ben McLeod",69,15,0,27
+"269","Arundel",627,210,12,234
+"270","Levels Valley",465,165,12,180
+"271","Geraldine",939,354,42,873
+"272","Rangitata",600,198,24,534
+"273","Waitohi (Timaru District)",789,213,33,360
+"274","Pleasant Point",528,195,33,348
+"275","Temuka West",828,231,36,726
+"276","Hadlow",630,219,21,285
+"277","Levels",552,189,18,234
+"278","Temuka East",921,264,45,630
+"279","Gleniti North",585,207,15,444
+"280","Washdyke",447,114,18,261
+"281","Fairview",723,234,27,372
+"282","Gleniti South",837,297,33,885
+"283","Glenwood",660,216,36,540
+"284","Marchwiel West",549,138,45,498
+"285","Marchwiel East",729,207,78,564
+"286","Highfield North",816,318,54,816
+"287","Highfield South",492,168,24,324
+"288","Waimataitai-Maori Hill",825,246,45,609
+"289","Fraser Park",1146,348,51,732
+"290","Seaview",864,228,63,612
+"291","Inlet Port Timaru",NA,NA,NA,NA
+"292","Watlington",951,273,54,540
+"293","Timaru Central",198,39,18,102
+"294","Timaru East",108,30,12,72
+"295","Parkside",966,255,69,663
+"296","Kensington (Timaru District)",618,180,33,381
+"297","Mackenzie Lakes",780,117,3,126
+"298","Inland water Lake Pukaki",NA,NA,NA,NA
+"299","Inland water Lake Tekapo",NA,NA,NA,NA
+"300","Twizel",690,222,9,318
+"301","Opua (Mackenzie District)",633,198,12,210
+"302","Fairlie",348,123,6,270
+"303","Hakataramea",381,114,9,150
+"304","Maungati",357,99,9,96
+"305","Lyalldale",303,87,18,135
+"306","Makikihi-Willowbridge",450,144,21,225
+"307","Waimate North",177,66,18,195
+"308","Morven-Glenavy-Ikawai",528,117,24,213
+"309","Waimate West",414,156,42,516
+"310","Waimate East",465,183,39,708
+"311","Aviemore",411,93,3,162
+"312","Inland water Lake Ohau",NA,NA,NA,NA
+"313","Danseys Pass",399,132,12,252
+"314","Oceanic Canterbury Region",NA,NA,NA,NA

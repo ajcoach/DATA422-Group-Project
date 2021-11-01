@@ -1,0 +1,305 @@
+"","Suburb","Male_count","Female_count"
+"1","Kaikoura Ranges",894,795
+"2","Kaikoura",1107,1116
+"3","Hanmer Range",141,123
+"4","Amuri",1173,1047
+"5","Hanmer Springs",480,480
+"6","Upper Hurunui",747,729
+"7","Parnassus",657,666
+"8","Ashley Forest",348,324
+"9","Omihi",660,579
+"10","Balcairn",1161,1182
+"11","Amberley",1002,1065
+"12","Okuku",360,363
+"13","Ashley Gorge",591,543
+"14","Oxford",1068,1146
+"15","Starvation Hill-Cust",1092,1125
+"16","Loburn",1098,1077
+"17","Eyrewell",900,906
+"18","West Eyreton",753,711
+"19","Ashley-Sefton",1065,1074
+"20","Fernside",654,672
+"21","Rangiora North West",990,1140
+"22","Kingsbury",1257,1524
+"23","Ashgrove",759,771
+"24","Rangiora North East",852,963
+"25","Oxford Estate",648,666
+"26","Rangiora Central",27,12
+"27","Rangiora South West",1122,1221
+"28","Lilybrook",1392,1557
+"29","Waikuku",828,810
+"30","Mandeville-Ohoka",1638,1572
+"31","Rangiora South East",1026,1152
+"32","Southbrook",381,393
+"33","Swannanoa-Eyreton",468,486
+"34","Tuahiwi",483,462
+"35","Woodend",1410,1374
+"36","Pegasus",1293,1344
+"37","Clarkville",723,675
+"38","Pegasus Bay",570,477
+"39","Kaiapoi North West",993,1092
+"40","Silverstream (Waimakariri District)",390,429
+"41","Sovereign Palms",1689,1716
+"42","Kaiapoi West",642,618
+"43","Kaiapoi Central",1032,1137
+"44","Kaiapoi South",894,933
+"45","Kaiapoi East",156,126
+"46","McLeans Island",108,93
+"47","Paparua",771,228
+"48","Yaldhurst",804,798
+"49","Christchurch Airport",99,75
+"50","Clearwater",366,330
+"51","Belfast West",957,948
+"52","Harewood",705,681
+"53","Brooklands-Spencerville",372,366
+"54","Styx",579,513
+"55","Belfast East",1134,1176
+"56","Northwood",1731,1836
+"57","Russley",456,525
+"58","Regents Park",579,591
+"59","Hawthornden",1218,1272
+"60","Bishopdale North",2043,2160
+"61","Casebrook",1968,2130
+"62","Bishopdale West",1428,1431
+"63","Templeton",864,933
+"64","Islington",495,474
+"65","Burnside Park",1590,1653
+"66","Marshland",408,381
+"67","Avonhead North",717,702
+"68","Redwood North",1335,1449
+"69","Broomfield",1221,1350
+"70","Redwood West",1077,1125
+"71","Avonhead West",879,954
+"72","Bishopdale South",1098,1143
+"73","Islington-Hornby Industrial",189,153
+"74","Burnside",1764,1725
+"75","Hei Hei",1794,1677
+"76","Papanui North",864,1101
+"77","Avonhead East",1392,1386
+"78","Redwood East",1578,1620
+"79","Avonhead South",1620,1599
+"80","Riccarton Racecourse",618,588
+"81","Bryndwr North",1740,1644
+"82","Northlands (Christchurch City)",54,69
+"83","Papanui West",1395,1515
+"84","Ilam North",1857,1869
+"85","Hornby West",1296,1197
+"86","Hornby Central",75,57
+"87","Northcote (Christchurch City)",1278,1344
+"88","Jellie Park",1506,1500
+"89","Ilam South",1668,1536
+"90","Bryndwr South",1380,1521
+"91","Papanui East",1074,1311
+"92","Sockburn North",2004,2022
+"93","Hornby South",2256,2190
+"94","Ilam University",1356,1068
+"95","Prestons",1485,1566
+"96","Strowan",1707,1803
+"97","Fendalton",948,1050
+"98","Waitikiri",1374,1359
+"99","Mairehau North",1461,1662
+"100","Bush Inn",1578,1512
+"101","Awatea North",1314,1164
+"102","Upper Riccarton",930,756
+"103","Malvern",1293,1311
+"104","Rutland",1416,1488
+"105","Sockburn South",207,165
+"106","Deans Bush",1254,1263
+"107","Wigram North",300,333
+"108","Holmwood",1020,1110
+"109","Wharenui",1518,1239
+"110","Wigram West",699,705
+"111","Awatea South",453,591
+"112","Merivale",1254,1647
+"113","Mairehau South",1860,1887
+"114","Mona Vale",678,663
+"115","Riccarton West",1806,1524
+"116","Shirley West",2025,2151
+"117","Middleton",126,60
+"118","Wigram South",657,660
+"119","Queenspark",1728,1761
+"120","St Albans North",1059,1074
+"121","St Albans West",1251,1269
+"122","Travis Wetlands",1227,1167
+"123","Wigram East",393,387
+"124","Riccarton Central",27,21
+"125","Oaklands West",1239,1272
+"126","Riccarton South",1785,1659
+"127","Halswell West",1755,1845
+"128","Shirley East",1248,1428
+"129","Broken Run",276,300
+"130","St Albans East",1479,1491
+"131","Hagley Park",24,18
+"132","Hillmorton",1383,1455
+"133","Parklands",1956,2064
+"134","Riccarton East",552,531
+"135","Edgeware",2115,2013
+"136","Aidanfield",1842,2064
+"137","Tower Junction",42,78
+"138","Burwood",1593,1677
+"139","Christchurch Central-West",483,447
+"140","Christchurch Central-North",1203,1176
+"141","Richmond North (Christchurch City)",1158,1152
+"142","Waimairi Beach",624,684
+"143","Addington West",1335,1071
+"144","Otakaro-Avon River Corridor",45,51
+"145","Oaklands East",1638,1704
+"146","Addington North",3,9
+"147","Dallington",1185,1176
+"148","Christchurch Central",66,36
+"149","Hoon Hay West",1644,1569
+"150","Richmond South (Christchurch City)",1062,933
+"151","Spreydon West",1500,1566
+"152","Christchurch Central-East",1095,834
+"153","Christchurch Central-South",291,258
+"154","North Beach",2016,2052
+"155","Halswell North",1002,1050
+"156","Addington East",1482,1458
+"157","Avondale (Christchurch City)",1161,1212
+"158","Spreydon North",1905,1875
+"159","Hoon Hay East",1593,1617
+"160","Avonside",837,834
+"161","Linwood West",2613,2352
+"162","Halswell South",1218,1272
+"163","Sydenham Central",81,60
+"164","Spreydon South",1110,1257
+"165","Rawhiti",1368,1404
+"166","Wainoni",1410,1386
+"167","Linwood North",1365,1344
+"168","Aranui",2106,2091
+"169","Sydenham West",660,657
+"170","Lancaster Park",153,87
+"171","Phillipstown",2124,1893
+"172","Kennedys Bush",453,453
+"173","Somerfield East",1788,1932
+"174","Somerfield West",1428,1632
+"175","Linwood East",1065,1047
+"176","Sydenham North",1059,942
+"177","Hoon Hay South",1065,1110
+"178","Charleston (Christchurch City)",741,660
+"179","Sydenham South",1338,1446
+"180","Bexley",1305,1248
+"181","Waltham",984,954
+"182","Westmorland",1101,1092
+"183","Woolston North",1725,1668
+"184","New Brighton",1650,1680
+"185","Cashmere West",1509,1551
+"186","Bromley South",1488,1461
+"187","Ensors",1164,1134
+"188","Beckenham",1125,1275
+"189","Bromley North",33,21
+"190","St Martins",1236,1482
+"191","Opawa",642,723
+"192","Woolston West",621,597
+"193","Woolston East",1644,1584
+"194","Huntsbury",1131,1137
+"195","Cashmere East",1689,1704
+"196","Hillsborough (Christchurch City)",1200,1170
+"197","Woolston South",282,225
+"198","Port Hills",39,33
+"199","South New Brighton",1596,1641
+"200","Brookhaven-Ferrymead",543,531
+"201","Heathcote Valley",1083,1146
+"202","Mount Pleasant",1734,1833
+"203","Redcliffs",933,1035
+"204","Governors Bay",423,441
+"205","Clifton Hill",807,837
+"206","Lyttelton",1464,1518
+"207","Sumner",1752,1764
+"208","Teddington",117,114
+"209","Diamond Harbour",732,765
+"210","Banks Peninsula South",585,585
+"211","Eastern Bays-Banks Peninsula",306,309
+"212","Akaroa Harbour",363,366
+"213","Akaroa",375,378
+"214","Craigieburn",93,66
+"215","Torlesse",618,543
+"216","Glenroy-Hororata",654,540
+"217","Glentunnel",585,606
+"218","Darfield",1338,1389
+"219","Kirwee",648,627
+"220","Bankside",873,783
+"221","Charing Cross",438,447
+"222","Halkett",852,804
+"223","Newtons Road",1770,1572
+"224","West Melton",1017,1068
+"225","Burnham Camp",750,393
+"226","Rolleston Izone",15,18
+"227","Rolleston North West",1902,1872
+"228","Springston",1068,1086
+"229","Rolleston Central",1617,1641
+"230","Rolleston North East",2220,2334
+"231","Rolleston South West",1440,1434
+"232","Southbridge",1275,1218
+"233","Rolleston South East",1485,1551
+"234","Trents",999,918
+"235","Prebbleton",2235,2277
+"236","Irwell",681,597
+"237","Ladbrooks",861,837
+"238","Lincoln West",1425,1515
+"239","Lincoln East",1740,1830
+"240","Leeston",1083,1128
+"241","Tai Tapu",606,570
+"242","Motukarara",306,303
+"243","Ashburton Lakes",48,48
+"244","Cairnbrae",780,663
+"245","Ashburton Forks",1197,1017
+"246","Methven",906,873
+"247","Ealing-Lowcliffe",837,714
+"248","Eiffelton",1293,1170
+"249","Chertsey",867,747
+"250","Winchmore-Wakanui",828,711
+"251","Allenton North",1218,1329
+"252","Allenton South",1077,1047
+"253","Rakaia",723,720
+"254","Ashburton North",522,528
+"255","Allenton East",1029,1092
+"256","Tinwald North",591,591
+"257","Ashburton Central",75,63
+"258","Ashburton West",405,555
+"259","Tinwald South",1188,1185
+"260","Ashburton East",840,909
+"261","Netherby",1095,1032
+"262","Hampstead",1491,1416
+"263","Ben McLeod",75,57
+"264","Arundel",693,672
+"265","Levels Valley",564,483
+"266","Geraldine",1254,1449
+"267","Rangitata",837,816
+"268","Waitohi (Timaru District)",927,834
+"269","Pleasant Point",696,675
+"270","Temuka West",1059,1104
+"271","Hadlow",690,744
+"272","Levels",654,558
+"273","Temuka East",1146,1161
+"274","Gleniti North",732,756
+"275","Washdyke",522,498
+"276","Fairview",846,798
+"277","Gleniti South",1131,1305
+"278","Glenwood",873,915
+"279","Marchwiel West",732,792
+"280","Marchwiel East",1002,978
+"281","Highfield North",1041,1317
+"282","Highfield South",609,642
+"283","Waimataitai-Maori Hill",969,1071
+"284","Fraser Park",1335,1419
+"285","Seaview",1017,1068
+"286","Watlington",1122,1134
+"287","Timaru Central",210,195
+"288","Timaru East",150,120
+"289","Parkside",1182,1197
+"290","Kensington (Timaru District)",741,726
+"291","Mackenzie Lakes",585,597
+"292","Twizel",765,687
+"293","Opua (Mackenzie District)",726,621
+"294","Fairlie",435,447
+"295","Hakataramea",426,405
+"296","Maungati",384,351
+"297","Lyalldale",369,315
+"298","Makikihi-Willowbridge",543,465
+"299","Waimate North",249,258
+"300","Morven-Glenavy-Ikawai",597,501
+"301","Waimate West",636,696
+"302","Waimate East",753,861
+"303","Aviemore",411,357
+"304","Danseys Pass",504,483
